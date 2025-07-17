@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Cardiology",
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Heart", "Liver", "Lung", "Kidney"],
+    "answer": 0
+  },
+  {
+    "category": "Pediatrics",
+    "question": "Which of the following is a recommended vaccine for children?",
+    "options": ["BCG", "Beta-blockers", "Insulin", "Amoxicillin"],
+    "answer": 0
+  },
+  {
+    "category": "Internal Medicine",
+    "question": "Type 1 diabetes is characterized by deficiency of which hormone?",
+    "options": ["Insulin", "Cortisol", "Thyroxine", "Estrogen"],
+    "answer": 0
+  }
+]
